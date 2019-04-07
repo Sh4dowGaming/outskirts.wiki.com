@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Outskirts Wiki
 
 You can use the [editor on GitHub](https://github.com/Sh4dowGaming/outskirts.wiki.com/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
